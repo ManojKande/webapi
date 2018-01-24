@@ -1,0 +1,12 @@
+c:\users\manoj.kande\documents\visual studio 2015\Projects\WebGeneric\WebGeneric\bin\Debug\WebGeneric.exe.config
+c:\users\manoj.kande\documents\visual studio 2015\Projects\WebGeneric\WebGeneric\obj\Debug\WebGeneric.csprojResolveAssemblyReference.cache
+c:\users\manoj.kande\documents\visual studio 2015\Projects\WebGeneric\WebGeneric\bin\Debug\WebGeneric.exe
+c:\users\manoj.kande\documents\visual studio 2015\Projects\WebGeneric\WebGeneric\bin\Debug\WebGeneric.pdb
+c:\users\manoj.kande\documents\visual studio 2015\Projects\WebGeneric\WebGeneric\bin\Debug\Model.dll
+c:\users\manoj.kande\documents\visual studio 2015\Projects\WebGeneric\WebGeneric\bin\Debug\Newtonsoft.Json.dll
+c:\users\manoj.kande\documents\visual studio 2015\Projects\WebGeneric\WebGeneric\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\manoj.kande\documents\visual studio 2015\Projects\WebGeneric\WebGeneric\bin\Debug\Model.pdb
+c:\users\manoj.kande\documents\visual studio 2015\Projects\WebGeneric\WebGeneric\bin\Debug\Newtonsoft.Json.xml
+c:\users\manoj.kande\documents\visual studio 2015\Projects\WebGeneric\WebGeneric\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\manoj.kande\documents\visual studio 2015\Projects\WebGeneric\WebGeneric\obj\Debug\WebGeneric.exe
+c:\users\manoj.kande\documents\visual studio 2015\Projects\WebGeneric\WebGeneric\obj\Debug\WebGeneric.pdb

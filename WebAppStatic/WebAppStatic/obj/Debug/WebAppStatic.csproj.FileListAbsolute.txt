@@ -1,0 +1,171 @@
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\ApplicationInsights.config
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\roslyn\csc.exe
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\roslyn\System.Collections.Immutable.dll
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\roslyn\vbc.exe
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\roslyn\VBCSCompiler.exe
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\roslyn\VBCSCompiler.exe.config
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\WebAppStatic.dll.config
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\WebAppStatic.dll
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\WebAppStatic.pdb
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\Antlr3.Runtime.dll
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\Microsoft.AI.Web.dll
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\Microsoft.AI.WindowsServer.dll
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\Microsoft.ApplicationInsights.dll
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\Microsoft.Web.Infrastructure.dll
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\Newtonsoft.Json.dll
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\System.Net.Http.Formatting.dll
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\System.Web.Helpers.dll
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\System.Web.Http.dll
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\System.Web.Http.WebHost.dll
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\System.Web.Optimization.dll
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\System.Web.Razor.dll
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\System.Web.WebPages.Deployment.dll
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\System.Web.WebPages.dll
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\WebGrease.dll
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\Microsoft.AI.Web.xml
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\Microsoft.AI.WindowsServer.xml
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\Microsoft.ApplicationInsights.xml
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\Newtonsoft.Json.xml
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\System.Net.Http.Formatting.xml
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\System.Web.Helpers.xml
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\System.Web.Http.xml
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\System.Web.Http.WebHost.xml
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\System.Web.Optimization.xml
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\System.Web.Razor.xml
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\System.Web.WebPages.xml
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\System.Web.WebPages.Deployment.xml
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\bin\Antlr3.Runtime.pdb
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\obj\Debug\WebAppStatic.csprojResolveAssemblyReference.cache
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\obj\Debug\WebAppStatic.dll
+c:\users\bhargava.kaachiraju\documents\visual studio 2015\Projects\WebAppStatic\WebAppStatic\obj\Debug\WebAppStatic.pdb
+C:\Users\bhargava.kaachiraju\Documents\Visual Studio 2015\Projects\WebAppStatic\WebAppStatic\bin\Model.dll
+C:\Users\bhargava.kaachiraju\Documents\Visual Studio 2015\Projects\WebAppStatic\WebAppStatic\bin\Model.pdb
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\ApplicationInsights.config
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\roslyn\csc.exe
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\roslyn\Microsoft.CSharp.Core.targets
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\roslyn\System.Collections.Immutable.dll
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\roslyn\System.Reflection.Metadata.dll
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\roslyn\vbc.exe
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\roslyn\VBCSCompiler.exe
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\roslyn\VBCSCompiler.exe.config
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\WebAppStatic.dll.config
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\WebAppStatic.dll
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\WebAppStatic.pdb
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\Antlr3.Runtime.dll
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\Microsoft.AI.Agent.Intercept.dll
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\Microsoft.AI.DependencyCollector.dll
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\Microsoft.AI.PerfCounterCollector.dll
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\Microsoft.AI.Web.dll
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\Microsoft.AI.WindowsServer.dll
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\Microsoft.ApplicationInsights.dll
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\Microsoft.Web.Infrastructure.dll
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\Model.dll
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\System.Net.Http.Formatting.dll
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\System.Web.Helpers.dll
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\System.Web.Http.dll
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\System.Web.Http.WebHost.dll
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\System.Web.Optimization.dll
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\System.Web.WebPages.Deployment.dll
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\System.Web.WebPages.dll
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\WebGrease.dll
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\Newtonsoft.Json.dll
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\System.Web.Razor.dll
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\Model.pdb
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\Microsoft.AI.DependencyCollector.xml
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\Microsoft.AI.Web.xml
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\Microsoft.AI.WindowsServer.xml
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\Microsoft.ApplicationInsights.xml
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\System.Net.Http.Formatting.xml
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\System.Web.Helpers.xml
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\System.Web.Http.xml
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\System.Web.Http.WebHost.xml
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\System.Web.Optimization.xml
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\System.Web.WebPages.xml
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\System.Web.WebPages.Deployment.xml
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\Antlr3.Runtime.pdb
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\Newtonsoft.Json.xml
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\bin\System.Web.Razor.xml
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\obj\Debug\WebAppStatic.csprojResolveAssemblyReference.cache
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\obj\Debug\WebAppStatic.dll
+\\fileshare\Saturday Training\May-Dec 2016\Bhargava Kaachiraju\WebAppStatic\WebAppStatic\obj\Debug\WebAppStatic.pdb
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\ApplicationInsights.config
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\roslyn\csc.exe
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\roslyn\vbc.exe
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\roslyn\VBCSCompiler.exe
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\WebAppStatic.dll.config
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\WebAppStatic.dll
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\WebAppStatic.pdb
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\Antlr3.Runtime.dll
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\Microsoft.AI.Web.dll
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\Microsoft.ApplicationInsights.dll
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\Model.dll
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\System.Net.Http.Formatting.dll
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\System.Web.Helpers.dll
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\System.Web.Http.dll
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\System.Web.Http.WebHost.dll
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\System.Web.Optimization.dll
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\System.Web.WebPages.dll
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\WebGrease.dll
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\Newtonsoft.Json.dll
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\System.Web.Razor.dll
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\Model.pdb
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\Microsoft.AI.Web.xml
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\Microsoft.ApplicationInsights.xml
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\System.Net.Http.Formatting.xml
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\System.Web.Helpers.xml
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\System.Web.Http.xml
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\System.Web.Http.WebHost.xml
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\System.Web.Optimization.xml
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\System.Web.WebPages.xml
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\Antlr3.Runtime.pdb
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\Newtonsoft.Json.xml
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\bin\System.Web.Razor.xml
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\obj\Debug\WebAppStatic.csprojResolveAssemblyReference.cache
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\obj\Debug\WebAppStatic.dll
+C:\Users\manoj.kande\Downloads\master\master\WebAppStatic\WebAppStatic\obj\Debug\WebAppStatic.pdb
